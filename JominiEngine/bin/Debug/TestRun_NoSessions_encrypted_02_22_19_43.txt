@@ -1,0 +1,73 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:50737
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = AdjustExpenditure
+Sending to: helen | ActionType = AdjustExpenditure | ResponseType = ErrorGenericFiefUnidentified
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = AdjustExpenditure
+Sending to: helen | ActionType = AdjustExpenditure | ResponseType = ErrorGenericFiefUnidentified
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = AdjustExpenditure
+Sending to: helen | ActionType = AdjustExpenditure | ResponseType = ErrorGenericFiefUnidentified
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = AdjustExpenditure
+Sending to: helen | ActionType = AdjustExpenditure | ResponseType = ErrorGenericFiefUnidentified
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:62344
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects
+From: helen: request = ViewMyFiefs
+Sending to: helen | ActionType = ViewMyFiefs | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewMyFiefs
+Sending to: helen | Act

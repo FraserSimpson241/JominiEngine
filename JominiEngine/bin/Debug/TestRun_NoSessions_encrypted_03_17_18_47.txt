@@ -1,0 +1,80 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:57337
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:63826
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:58428
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:61605
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:61608
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects
+Client helen disconnects
+Client helen disconnects
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:62310
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:58359
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:54387
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects
+Accepted co

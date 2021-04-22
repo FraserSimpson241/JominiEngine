@@ -1,0 +1,72 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Run-time error: Recieved warning message: Received unhandled library message Ping from 127.0.0.1:60059
+Run-time error: Recieved warning message: Received unhandled library message Ping from 127.0.0.1:60059
+Run-time error: Recieved warning message: Received unhandled library message Ping from 127.0.0.1:60059
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:59291
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: hele

@@ -1,0 +1,95 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Recieved: StatusChanged | 127.0.0.1:62606
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:62606
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:62606
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:62606
+Status is now: Connected
+Recieved: StatusChanged | 127.0.0.1:54254
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:54254
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:54254
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:54254
+Status is now: Connected
+Recieved: StatusChanged | 127.0.0.1:54255
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:54255
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:54255
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:54255
+Status is now: Connected
+Recieved: Data | 127.0.0.1:54255
+[07:36:44] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:54255
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:54255
+Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:54255
+Status is now: Disconnected
+07:36:44Client helen disconnects .
+Recieved: StatusChanged | 127.0.0.1:64660
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64660
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64660
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64660
+Status is now: Connected
+Recieved: Data | 127.0.0.1:64660
+[07:36:59] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:64660
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:64660
+Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:64660
+Status is now: Disconnected
+07:36:59Client helen disconnects .
+Recieved: StatusChanged | 127.0.0.1:60255
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:60255
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:60255
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:60255
+Status is now: Connected
+Recieved: Data | 127.0.0.1:60255
+[07:37:19] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:60255
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:60255
+Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:60255
+Status is now: Disconnected
+07:37:19Client helen disconnects .
+Recieved: StatusChanged | 127.0.0.1:55276
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:55276
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:55276
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:55276
+Status is now: Connected
+Recieved: Data | 127.0.0.1:55276
+[07:37:46] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:55276
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:55276
+Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:55276
+Status is now: Disconnected
+07:37:46Client helen disconnects .
+Recieved: StatusChanged | 127.0.0.1:51495
+Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:51495
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:51495
+Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:51495
+Status is now: Connected
+Recieved: Data | 127.0.0.1:51495
+[07:37:59] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 127.0.0.1:51495
+helen logs in from 127.0.0.1:51495
+Recieved: Data | 127.0.0.1:51495
+From: helen: request = GetNPCList
+[07:38:00] Sending to: helen | ActionType = GetNPCList | ResponseTyp

@@ -1,0 +1,446 @@
+[11:35:26] Port forwarded successfully.
+[11:35:26] Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+[11:35:39] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+[11:35:39] Recieved: StatusChanged | 92.239.228.86:58524
+[11:35:39] 	Status is now: RespondedAwaitingApproval
+[11:35:39] Recieved: ConnectionApproval | 92.239.228.86:58524
+[11:35:39] Accepted connection from helen | helen | TestString
+[11:35:39] Recieved: StatusChanged | 92.239.228.86:58524
+[11:35:39] 	Status is now: RespondedConnect
+[11:35:39] Recieved: StatusChanged | 92.239.228.86:58524
+[11:35:39] 	Status is now: Connected
+[11:35:39] Recieved: Data | 92.239.228.86:58524
+[11:35:39]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:58524
+[11:35:39] helen logs in from 92.239.228.86:58524
+[11:35:39] Recieved: Data | 92.239.228.86:58524
+[11:35:39] From: helen: request = ViewWorldMap
+[11:35:39]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:58524
+[11:35:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:36:49] Recieved: Data | 92.239.228.86:58524
+[11:36:49] From: helen: request = ViewChar
+[11:36:49]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:58524
+[11:36:49]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:37:10] Recieved: Data | 92.239.228.86:58524
+[11:37:10] From: helen: request = ViewArmy
+[11:37:10]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:58524
+[11:37:10]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:37:19] Recieved: Data | 92.239.228.86:58524
+[11:37:19] From: helen: request = ViewWorldMap
+[11:37:19]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:58524
+[11:37:19]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:37:23] Recieved: Data | 92.239.228.86:58524
+[11:37:23] From: helen: request = ViewFief
+[11:37:23]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:58524
+[11:37:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:37:26] Recieved: Data | 92.239.228.86:58524
+[11:37:26] From: helen: request = ExamineArmiesInFief
+[11:37:26]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:58524
+[11:37:26]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:16] Recieved: Data | 92.239.228.86:58524
+[11:38:16] From: helen: request = GetNPCList
+[11:38:16]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:58524
+[11:38:16]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:19] Recieved: Data | 92.239.228.86:58524
+[11:38:19] From: helen: request = ViewMyFiefs
+[11:38:19]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:58524
+[11:38:19]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:25] Recieved: Data | 92.239.228.86:58524
+[11:38:25] From: helen: request = ListArmies
+[11:38:25]  Sending to: helen | ActionType = ListArmies | ResponseType = Success | 92.239.228.86:58524
+[11:38:25]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:35] Recieved: Data | 92.239.228.86:58524
+[11:38:35] From: helen: request = ViewWorldMap
+[11:38:35]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:58524
+[11:38:35]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:36] Recieved: Data | 92.239.228.86:58524
+[11:38:36] From: helen: request = ViewFief
+[11:38:36]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:58524
+[11:38:36]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:38:39] Recieved: Data | 92.239.228.86:58524
+[11:38:39] From: helen: request = ExamineArmiesInFief
+[11:38:39]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:58524
+[11:38:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:58524
+[11:39:58] Recieved: StatusChanged | 92.239.228.86:58524
+[11:39:58] 	Status is now: Disconnected
+[11:39:58] 92.239.228.86:58524 has disconnected. Reason: Client logged out.
+[11:39:58] Client helen has disconnected.
+[11:41:23] Recieved: StatusChanged | 92.239.228.86:61596
+[11:41:23] 	Status is now: RespondedAwaitingApproval
+[11:41:23] Recieved: ConnectionApproval | 92.239.228.86:61596
+[11:41:23] Accepted connection from helen | helen | TestString
+[11:41:23] Recieved: StatusChanged | 92.239.228.86:61596
+[11:41:23] 	Status is now: RespondedConnect
+[11:41:23] Recieved: StatusChanged | 92.239.228.86:61596
+[11:41:23] 	Status is now: Connected
+[11:41:23] Recieved: Data | 92.239.228.86:61596
+[11:41:23]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:61596
+[11:41:23] helen logs in from 92.239.228.86:61596
+[11:41:23] Recieved: Data | 92.239.228.86:61596
+[11:41:23] From: helen: request = ViewWorldMap
+[11:41:23]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:41:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:41:28] Recieved: Data | 92.239.228.86:61596
+[11:41:28] From: helen: request = ViewChar
+[11:41:28]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:61596
+[11:41:28]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:41:29] Recieved: Data | 92.239.228.86:61596
+[11:41:29] From: helen: request = ViewArmy
+[11:41:29]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:61596
+[11:41:29]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:41:32] Recieved: Data | 92.239.228.86:61596
+[11:41:32] From: helen: request = ViewWorldMap
+[11:41:32]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:41:32]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:41:34] Recieved: Data | 92.239.228.86:61596
+[11:41:34] From: helen: request = ViewFief
+[11:41:34]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:41:34]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:41:38] Recieved: Data | 92.239.228.86:61596
+[11:41:38] From: helen: request = ExamineArmiesInFief
+[11:41:38]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:41:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:42:02] Recieved: Data | 92.239.228.86:61596
+[11:42:02] From: helen: request = ListArmies
+[11:42:02]  Sending to: helen | ActionType = ListArmies | ResponseType = Success | 92.239.228.86:61596
+[11:42:02]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:43:26] Recieved: Data | 92.239.228.86:61596
+[11:43:26] From: helen: request = ViewWorldMap
+[11:43:26]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:43:26]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:43:28] Recieved: Data | 92.239.228.86:61596
+[11:43:28] From: helen: request = ViewFief
+[11:43:28]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:43:28]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:43:34] Recieved: Data | 92.239.228.86:61596
+[11:43:34] From: helen: request = ExamineArmiesInFief
+[11:43:34]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:43:34]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:46:37] Recieved: Data | 92.239.228.86:61596
+[11:46:37] From: helen: request = ViewArmy
+[11:46:37]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:61596
+[11:46:37]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:47:00] Recieved: Data | 92.239.228.86:61596
+[11:47:00] From: helen: request = Attack
+[11:47:00] Update helen: ArmyRetreat
+[11:47:00]  Sending to: helen | ActionType = Update | ResponseType = ArmyRetreat | 92.239.228.86:61596
+[11:47:00] Update helen: newEvent
+[11:47:00]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:61596
+[11:47:00]  Sending to: helen | ActionType = Attack | ResponseType = BattleResults | 92.239.228.86:61596
+[11:47:00]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:47:10] Recieved: Data | 92.239.228.86:61596
+[11:47:10] From: helen: request = ViewJournalEntries
+[11:47:10]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:61596
+[11:47:10]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:23] Recieved: Data | 92.239.228.86:61596
+[11:49:23] From: helen: request = ViewWorldMap
+[11:49:23]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:49:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:27] Recieved: Data | 92.239.228.86:61596
+[11:49:27] From: helen: request = ListArmies
+[11:49:27]  Sending to: helen | ActionType = ListArmies | ResponseType = Success | 92.239.228.86:61596
+[11:49:27]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:37] Recieved: Data | 92.239.228.86:61596
+[11:49:37] From: helen: request = ViewWorldMap
+[11:49:37]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:49:37]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:39] Recieved: Data | 92.239.228.86:61596
+[11:49:39] From: helen: request = ViewFief
+[11:49:39]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:49:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:40] Recieved: Data | 92.239.228.86:61596
+[11:49:40] From: helen: request = ExamineArmiesInFief
+[11:49:40]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:49:40]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:44] Recieved: Data | 92.239.228.86:61596
+[11:49:44] From: helen: request = ViewWorldMap
+[11:49:44]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:49:44]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:46] Recieved: Data | 92.239.228.86:61596
+[11:49:46] From: helen: request = ViewFief
+[11:49:46]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:49:46]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:47] Recieved: Data | 92.239.228.86:61596
+[11:49:47] From: helen: request = ExamineArmiesInFief
+[11:49:47]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:49:47]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:49:55] Recieved: Data | 92.239.228.86:61596
+[11:49:55] From: helen: request = ViewJournalEntries
+[11:49:55]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:61596
+[11:49:55]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:50:22] Recieved: Data | 92.239.228.86:61596
+[11:50:22] From: helen: request = ViewJournalEntries
+[11:50:22]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:61596
+[11:50:22]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:18] Recieved: Data | 92.239.228.86:61596
+[11:51:18] From: helen: request = ViewWorldMap
+[11:51:18]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:51:18]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:20] Recieved: Data | 92.239.228.86:61596
+[11:51:20] From: helen: request = ViewFief
+[11:51:20]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:51:20]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:23] Recieved: Data | 92.239.228.86:61596
+[11:51:23] From: helen: request = TravelTo
+[11:51:23]  Sending to: helen | ActionType = TravelTo | ResponseType = Success | 92.239.228.86:61596
+[11:51:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:23] Recieved: Data | 92.239.228.86:61596
+[11:51:23] From: helen: request = ViewFief
+[11:51:23]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:51:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:26] Recieved: Data | 92.239.228.86:61596
+[11:51:26] From: helen: request = ExamineArmiesInFief
+[11:51:26]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:51:26]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:29] Recieved: Data | 92.239.228.86:61596
+[11:51:29] From: helen: request = ViewArmy
+[11:51:29]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:61596
+[11:51:29]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:34] Recieved: Data | 92.239.228.86:61596
+[11:51:34] From: helen: request = Attack
+[11:51:34] Update helen: newEvent
+[11:51:34]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:61596
+[11:51:34]  Sending to: helen | ActionType = Attack | ResponseType = BattleResults | 92.239.228.86:61596
+[11:51:34]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:51:48] Recieved: Data | 92.239.228.86:61596
+[11:51:48] From: helen: request = ViewJournalEntries
+[11:51:48]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:61596
+[11:51:48]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:05] Recieved: Data | 92.239.228.86:61596
+[11:52:05] From: helen: request = ViewWorldMap
+[11:52:05]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:52:05]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:07] Recieved: Data | 92.239.228.86:61596
+[11:52:07] From: helen: request = ViewFief
+[11:52:07]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:52:07]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:10] Recieved: Data | 92.239.228.86:61596
+[11:52:10] From: helen: request = ExamineArmiesInFief
+[11:52:10]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:52:10]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:43] Recieved: Data | 92.239.228.86:61596
+[11:52:43] From: helen: request = ViewArmy
+[11:52:43]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:61596
+[11:52:43]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:52] Recieved: Data | 92.239.228.86:61596
+[11:52:52] From: helen: request = ViewWorldMap
+[11:52:52]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:52:52]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:54] Recieved: Data | 92.239.228.86:61596
+[11:52:54] From: helen: request = ViewFief
+[11:52:54]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:52:54]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:55] Recieved: Data | 92.239.228.86:61596
+[11:52:55] From: helen: request = TravelTo
+[11:52:55]  Sending to: helen | ActionType = TravelTo | ResponseType = Success | 92.239.228.86:61596
+[11:52:55]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:55] Recieved: Data | 92.239.228.86:61596
+[11:52:55] From: helen: request = ViewFief
+[11:52:55]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:52:55]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:58] Recieved: Data | 92.239.228.86:61596
+[11:52:58] From: helen: request = ViewWorldMap
+[11:52:58]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:61596
+[11:52:58]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:52:58] Recieved: Data | 92.239.228.86:61596
+[11:52:58] From: helen: request = ViewFief
+[11:52:58]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:61596
+[11:52:58]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:53:00] Recieved: Data | 92.239.228.86:61596
+[11:53:00] From: helen: request = ExamineArmiesInFief
+[11:53:00]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:61596
+[11:53:00]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:53:02] Recieved: Data | 92.239.228.86:61596
+[11:53:02] From: helen: request = ViewArmy
+[11:53:02]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:61596
+[11:53:02]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:53:06] Recieved: Data | 92.239.228.86:61596
+[11:53:06] From: helen: request = Attack
+[11:53:06]  Sending to: helen | ActionType = Attack | ResponseType = ErrorGenericNotInSameFief | 92.239.228.86:61596
+[11:53:06]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:61596
+[11:55:00] Recieved: StatusChanged | 92.239.228.86:61596
+[11:55:00] 	Status is now: Disconnected
+[11:55:00] 92.239.228.86:61596 has disconnected. Reason: Client logged out.
+[11:55:00] Client helen has disconnected.
+[11:55:17] Recieved: StatusChanged | 92.239.228.86:53916
+[11:55:17] 	Status is now: RespondedAwaitingApproval
+[11:55:17] Recieved: ConnectionApproval | 92.239.228.86:53916
+[11:55:17] Accepted connection from helen | helen | TestString
+[11:55:17] Recieved: StatusChanged | 92.239.228.86:53916
+[11:55:17] 	Status is now: RespondedConnect
+[11:55:17] Recieved: StatusChanged | 92.239.228.86:53916
+[11:55:17] 	Status is now: Connected
+[11:55:17] Recieved: Data | 92.239.228.86:53916
+[11:55:17]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:53916
+[11:55:17] helen logs in from 92.239.228.86:53916
+[11:55:18] Recieved: Data | 92.239.228.86:53916
+[11:55:18] From: helen: request = ViewWorldMap
+[11:55:18]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53916
+[11:55:18]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:56:45] Recieved: Data | 92.239.228.86:53916
+[11:56:45] From: helen: request = ViewChar
+[11:56:45]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[11:56:45]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:56:48] Recieved: Data | 92.239.228.86:53916
+[11:56:48] From: helen: request = ViewArmy
+[11:56:48]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:53916
+[11:56:48]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:04] Recieved: Data | 92.239.228.86:53916
+[11:57:04] From: helen: request = ViewWorldMap
+[11:57:04]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53916
+[11:57:04]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:07] Recieved: Data | 92.239.228.86:53916
+[11:57:07] From: helen: request = ViewFief
+[11:57:07]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:53916
+[11:57:07]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:08] Recieved: Data | 92.239.228.86:53916
+[11:57:08] From: helen: request = ExamineArmiesInFief
+[11:57:08]  Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success | 92.239.228.86:53916
+[11:57:08]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:10] Recieved: Data | 92.239.228.86:53916
+[11:57:10] From: helen: request = ViewArmy
+[11:57:10]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:53916
+[11:57:10]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:21] Recieved: Data | 92.239.228.86:53916
+[11:57:21] From: helen: request = GetNPCList
+[11:57:21]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[11:57:21]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:29] Recieved: Data | 92.239.228.86:53916
+[11:57:29] From: helen: request = UseChar
+[11:57:29]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:53916
+[11:57:29]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:57:29] Recieved: Data | 92.239.228.86:53916
+[11:57:29] From: helen: request = ViewChar
+[11:57:29]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[11:57:29]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:06] Recieved: Data | 92.239.228.86:53916
+[11:58:06] From: helen: request = HireNPC
+[11:58:06]  Sending to: helen | ActionType = HireNPC | ResponseType = CharacterHireNotEmployable | 92.239.228.86:53916
+[11:58:06]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:46] Recieved: Data | 92.239.228.86:53916
+[11:58:46] From: helen: request = GetNPCList
+[11:58:46]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[11:58:46]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:51] Recieved: Data | 92.239.228.86:53916
+[11:58:51] From: helen: request = UseChar
+[11:58:51]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:53916
+[11:58:51]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:51] Recieved: Data | 92.239.228.86:53916
+[11:58:51] From: helen: request = ViewChar
+[11:58:51]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[11:58:51]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:55] Recieved: Data | 92.239.228.86:53916
+[11:58:55] From: helen: request = ViewWorldMap
+[11:58:55]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53916
+[11:58:55]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:57] Recieved: Data | 92.239.228.86:53916
+[11:58:57] From: helen: request = ViewFief
+[11:58:57]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:53916
+[11:58:57]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:59] Recieved: Data | 92.239.228.86:53916
+[11:58:59] From: helen: request = TravelTo
+[11:58:59]  Sending to: helen | ActionType = TravelTo | ResponseType = Success | 92.239.228.86:53916
+[11:58:59]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:58:59] Recieved: Data | 92.239.228.86:53916
+[11:58:59] From: helen: request = ViewFief
+[11:58:59]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:53916
+[11:58:59]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:59:25] Recieved: Data | 92.239.228.86:53916
+[11:59:25] From: helen: request = GetNPCList
+[11:59:25]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[11:59:25]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:59:31] Recieved: Data | 92.239.228.86:53916
+[11:59:31] From: helen: request = UseChar
+[11:59:31]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:53916
+[11:59:31]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[11:59:31] Recieved: Data | 92.239.228.86:53916
+[11:59:31] From: helen: request = ViewChar
+[11:59:31]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[11:59:31]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:29] Recieved: Data | 92.239.228.86:53916
+[12:00:29] From: helen: request = GetNPCList
+[12:00:29]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[12:00:29]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:38] Recieved: Data | 92.239.228.86:53916
+[12:00:38] From: helen: request = UseChar
+[12:00:38]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:53916
+[12:00:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:38] Recieved: Data | 92.239.228.86:53916
+[12:00:38] From: helen: request = ViewChar
+[12:00:38]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[12:00:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:40] Recieved: Data | 92.239.228.86:53916
+[12:00:40] From: helen: request = ViewWorldMap
+[12:00:40]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53916
+[12:00:40]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:41] Recieved: Data | 92.239.228.86:53916
+[12:00:41] From: helen: request = ViewFief
+[12:00:41]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:53916
+[12:00:41]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:45] Recieved: Data | 92.239.228.86:53916
+[12:00:45] From: helen: request = ListCharsInMeetingPlace
+[12:00:45]  Sending to: helen | ActionType = ListCharsInMeetingPlace | ResponseType = Success | 92.239.228.86:53916
+[12:00:45]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:49] Recieved: Data | 92.239.228.86:53916
+[12:00:49] From: helen: request = ViewChar
+[12:00:49]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[12:00:49]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:00:55] Recieved: Data | 92.239.228.86:53916
+[12:00:55] From: helen: request = HireNPC
+[12:00:55]  Sending to: helen | ActionType = HireNPC | ResponseType = CharacterOfferLow | 92.239.228.86:53916
+[12:00:55]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:03] Recieved: Data | 92.239.228.86:53916
+[12:01:03] From: helen: request = HireNPC
+[12:01:03]  Sending to: helen | ActionType = HireNPC | ResponseType = CharacterOfferHigh | 92.239.228.86:53916
+[12:01:03]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:18] Recieved: Data | 92.239.228.86:53916
+[12:01:18] From: helen: request = ViewMyFiefs
+[12:01:18]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:53916
+[12:01:18]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:20] Recieved: Data | 92.239.228.86:53916
+[12:01:20] From: helen: request = ViewFief
+[12:01:20]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:53916
+[12:01:20]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:28] Recieved: Data | 92.239.228.86:53916
+[12:01:28] From: helen: request = ListCharsInMeetingPlace
+[12:01:28]  Sending to: helen | ActionType = ListCharsInMeetingPlace | ResponseType = Success | 92.239.228.86:53916
+[12:01:28]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:39] Recieved: Data | 92.239.228.86:53916
+[12:01:39] From: helen: request = GetNPCList
+[12:01:39]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[12:01:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:44] Recieved: Data | 92.239.228.86:53916
+[12:01:44] From: helen: request = UseChar
+[12:01:44]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:53916
+[12:01:44]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:01:44] Recieved: Data | 92.239.228.86:53916
+[12:01:44] From: helen: request = ViewChar
+[12:01:44]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[12:01:44]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:02:06] Recieved: Data | 92.239.228.86:53916
+[12:02:06] From: helen: request = AddRemoveEntourage
+[12:02:06]  Sending to: helen | ActionType = AddRemoveEntourage | ResponseType = Success | 92.239.228.86:53916
+[12:02:06]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:02:18] Recieved: Data | 92.239.228.86:53916
+[12:02:18] From: helen: request = AddRemoveEntourage
+[12:02:18]  Sending to: helen | ActionType = AddRemoveEntourage | ResponseType = Success | 92.239.228.86:53916
+[12:02:18]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:02:20] Recieved: Data | 92.239.228.86:53916
+[12:02:20] From: helen: request = AddRemoveEntourage
+[12:02:20]  Sending to: helen | ActionType = AddRemoveEntourage | ResponseType = Success | 92.239.228.86:53916
+[12:02:20]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:02:23] Recieved: Data | 92.239.228.86:53916
+[12:02:23] From: helen: request = GetNPCList
+[12:02:23]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:53916
+[12:02:23]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:02:26] Recieved: Data | 92.239.228.86:53916
+[12:02:26] From: helen: request = ViewChar
+[12:02:26]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:53916
+[12:02:26]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:03:40] Recieved: Data | 92.239.228.86:53916
+[12:03:40] From: helen: request = ViewMyFiefs
+[12:03:40]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:53916
+[12:03:40]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53916
+[12:03:41] Recieved: Data | 92.239.228.86:53916
+[12:03:41] From: helen: request = ViewFief
+[12:03:41]  Se

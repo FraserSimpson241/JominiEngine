@@ -1,0 +1,19 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Running test with encryption
+Accepted connection from helen
+helen logs in from 127.0.0.1:58904
+From hist_mmorpg.Client: request = RecruitTroops, reply = Success
+GC memory: 6245688
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+GC memory: 6278256
+Update helen: SpySuccess
+From hist_mmorpg.Client: request = SpyFief, reply = Success
+GC memory: 6327040
+Time taken to run test (ms): 500.002400003374
+LogIn time: 375
+Recruit time: 31.2487000003457
+Travel time: 62.5040000006557
+Spy time: 31.2497000023723
+Max memory measured: 6327040
+Client listening thread ends
+Server listening thread exits

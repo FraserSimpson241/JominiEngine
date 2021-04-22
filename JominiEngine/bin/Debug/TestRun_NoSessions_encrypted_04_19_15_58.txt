@@ -1,0 +1,64 @@
+Port forwarded successfully.
+Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+Recieved: StatusChanged | 92.239.228.86:51065
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 92.239.228.86:51065
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 92.239.228.86:51065
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 92.239.228.86:51065
+	Status is now: Connected
+Recieved: Data | 92.239.228.86:51065
+[15:58:58] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:51065
+helen logs in from 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewWorldMap
+[15:58:58] Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:51065
+[15:58:58] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewFief
+[16:01:44] Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:51065
+[16:01:44] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewWorldMap
+[16:01:56] Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:51065
+[16:01:56] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewFief
+[16:01:59] Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:51065
+[16:01:59] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewChar
+[16:02:34] Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:51065
+[16:02:34] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = GetNPCList
+[16:02:40] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:51065
+[16:02:40] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewChar
+[16:03:53] Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:51065
+[16:03:53] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewWorldMap
+[16:03:56] Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:51065
+[16:03:56] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewFief
+[16:03:58] Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief | 92.239.228.86:51065
+[16:03:58] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = TravelTo
+[16:04:00] Sending to: helen | ActionType = TravelTo | ResponseType = Success | 92.239.228.86:51065
+[16:04:00] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewFief
+[16:04:00] Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:51065
+[16:04:00] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Recieved: Data | 92.239.228.86:51065
+From: helen: request = ViewWorldMap
+[16:05:59] Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:51065
+[16:05:59] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51065
+Re

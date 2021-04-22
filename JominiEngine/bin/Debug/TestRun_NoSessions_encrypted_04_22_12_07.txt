@@ -1,0 +1,510 @@
+[12:07:48] Port forwarded successfully.
+[12:07:48] Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+[12:07:55] Recieved: StatusChanged | 92.239.228.86:60701
+[12:07:55] 	Status is now: RespondedAwaitingApproval
+[12:07:55] Recieved: ConnectionApproval | 92.239.228.86:60701
+[12:07:56] Accepted connection from helen | helen | TestString
+[12:07:56] Recieved: StatusChanged | 92.239.228.86:60701
+[12:07:56] 	Status is now: RespondedConnect
+[12:07:56] Recieved: StatusChanged | 92.239.228.86:60701
+[12:07:56] 	Status is now: Connected
+[12:07:56] Recieved: Data | 92.239.228.86:60701
+[12:07:56]  Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 92.239.228.86:60701
+[12:07:56] Wrong Password, disconnecting user.
+[12:07:56] Recieved: StatusChanged | 92.239.228.86:60701
+[12:07:56] 	Status is now: Disconnecting
+[12:07:56] Recieved: StatusChanged | 92.239.228.86:60701
+[12:07:56] 	Status is now: Disconnected
+[12:07:56] 92.239.228.86:60701 has disconnected. Reason: Authentication Fail
+[12:07:56] Client helen has disconnected.
+[12:08:00] Recieved: StatusChanged | 92.239.228.86:60702
+[12:08:00] 	Status is now: RespondedAwaitingApproval
+[12:08:00] Recieved: ConnectionApproval | 92.239.228.86:60702
+[12:08:00] Accepted connection from helen | helen | TestString
+[12:08:00] Recieved: StatusChanged | 92.239.228.86:60702
+[12:08:00] 	Status is now: RespondedConnect
+[12:08:00] Recieved: StatusChanged | 92.239.228.86:60702
+[12:08:00] 	Status is now: Connected
+[12:08:00] Recieved: Data | 92.239.228.86:60702
+[12:08:00]  Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 92.239.228.86:60702
+[12:08:00] Wrong Password, disconnecting user.
+[12:08:00] Recieved: StatusChanged | 92.239.228.86:60702
+[12:08:00] 	Status is now: Disconnecting
+[12:08:00] Recieved: StatusChanged | 92.239.228.86:60702
+[12:08:00] 	Status is now: Disconnected
+[12:08:00] 92.239.228.86:60702 has disconnected. Reason: Authentication Fail
+[12:08:00] Client helen has disconnected.
+[12:08:05] Recieved: StatusChanged | 92.239.228.86:60703
+[12:08:05] 	Status is now: RespondedAwaitingApproval
+[12:08:05] Recieved: ConnectionApproval | 92.239.228.86:60703
+[12:08:40] Recieved: StatusChanged | 92.239.228.86:63475
+[12:08:40] 	Status is now: RespondedAwaitingApproval
+[12:08:40] Recieved: ConnectionApproval | 92.239.228.86:63475
+[12:09:52] Recieved: StatusChanged | 92.239.228.86:58888
+[12:09:52] 	Status is now: RespondedAwaitingApproval
+[12:09:52] Recieved: ConnectionApproval | 92.239.228.86:58888
+[12:09:52] Accepted connection from helen | helen | TestString
+[12:09:52] Recieved: StatusChanged | 92.239.228.86:58888
+[12:09:52] 	Status is now: RespondedConnect
+[12:09:52] Recieved: StatusChanged | 92.239.228.86:58888
+[12:09:52] 	Status is now: Connected
+[12:09:52] Recieved: Data | 92.239.228.86:58888
+[12:09:52]  Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 92.239.228.86:58888
+[12:09:52] Wrong Password, disconnecting user.
+[12:09:52] Recieved: StatusChanged | 92.239.228.86:58888
+[12:09:52] 	Status is now: Disconnecting
+[12:09:52] Recieved: StatusChanged | 92.239.228.86:58888
+[12:09:52] 	Status is now: Disconnected
+[12:09:52] 92.239.228.86:58888 has disconnected. Reason: Authentication Fail
+[12:09:52] Client helen has disconnected.
+[12:10:00] Recieved: StatusChanged | 92.239.228.86:58889
+[12:10:00] 	Status is now: RespondedAwaitingApproval
+[12:10:00] Recieved: ConnectionApproval | 92.239.228.86:58889
+[12:10:00] Accepted connection from helen | helen | TestString
+[12:10:00] Recieved: StatusChanged | 92.239.228.86:58889
+[12:10:00] 	Status is now: RespondedConnect
+[12:10:00] Recieved: StatusChanged | 92.239.228.86:58889
+[12:10:00] 	Status is now: Connected
+[12:10:00] Recieved: Data | 92.239.228.86:58889
+[12:10:00]  Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 92.239.228.86:58889
+[12:10:00] Wrong Password, disconnecting user.
+[12:10:00] Recieved: StatusChanged | 92.239.228.86:58889
+[12:10:00] 	Status is now: Disconnecting
+[12:10:00] Recieved: StatusChanged | 92.239.228.86:58889
+[12:10:00] 	Status is now: Disconnected
+[12:10:00] 92.239.228.86:58889 has disconnected. Reason: Authentication Fail
+[12:10:00] Client helen has disconnected.
+[12:10:04] Recieved: StatusChanged | 92.239.228.86:58890
+[12:10:04] 	Status is now: RespondedAwaitingApproval
+[12:10:04] Recieved: ConnectionApproval | 92.239.228.86:58890
+[12:10:21] Recieved: StatusChanged | 92.239.228.86:53442
+[12:10:21] 	Status is now: RespondedAwaitingApproval
+[12:10:21] Recieved: ConnectionApproval | 92.239.228.86:53442
+[12:10:22] Accepted connection from helen | helen | TestString
+[12:10:22] Recieved: StatusChanged | 92.239.228.86:53442
+[12:10:22] 	Status is now: RespondedConnect
+[12:10:22] Recieved: StatusChanged | 92.239.228.86:53442
+[12:10:22] 	Status is now: Connected
+[12:10:22] Recieved: Data | 92.239.228.86:53442
+[12:10:22]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:53442
+[12:10:22] helen logs in from 92.239.228.86:53442
+[12:10:22] Recieved: Data | 92.239.228.86:53442
+[12:10:22] From: helen: request = ViewWorldMap
+[12:10:22]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53442
+[12:10:22]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:10:24] Recieved: Data | 92.239.228.86:53442
+[12:10:24] From: helen: request = SeasonUpdate
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Random hex method returned a null value for fief.
+[12:10:24] Char_20 dies; Char_1193 inherits
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Char_32 dies; Char_384 inherits
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24] Update helen: newEvent
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:10:24]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:10:24] Recieved: Data | 92.239.228.86:53442
+[12:10:24] From: helen: request = ViewJournalEntries
+[12:10:24]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:10:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:09] Recieved: Data | 92.239.228.86:53442
+[12:12:09] From: helen: request = ViewJournalEntries
+[12:12:09]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:09]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:16] Recieved: Data | 92.239.228.86:53442
+[12:12:16] From: helen: request = ViewJournalEntries
+[12:12:16]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:16]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:24] Recieved: Data | 92.239.228.86:53442
+[12:12:24] From: helen: request = SeasonUpdate
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Random hex method returned a null value for fief.
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Char_196 dies; Char_1220 inherits
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Char_255 dies; Char_875 inherits
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Char_267 dies; Char_737 inherits
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24] Update helen: newEvent
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:24]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:24] Recieved: Data | 92.239.228.86:53442
+[12:12:24] From: helen: request = ViewJournalEntries
+[12:12:24]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:38] Recieved: Data | 92.239.228.86:53442
+[12:12:38] From: helen: request = SeasonUpdate
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Random hex method returned a null value for fief.
+[12:12:38] Char_18 dies; Char_899 inherits
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Char_166 dies; Char_964 inherits
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Char_258 dies; Char_1168 inherits
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Char_1220 dies; Char_1222 inherits
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38] Update helen: newEvent
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:38]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:38] Recieved: Data | 92.239.228.86:53442
+[12:12:38] From: helen: request = ViewJournalEntries
+[12:12:38]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:44] Recieved: Data | 92.239.228.86:53442
+[12:12:44] From: helen: request = SeasonUpdate
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Random hex method returned a null value for fief.
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Char_111 dies; Char_1140 inherits
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Char_199 dies; Char_874 inherits
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Char_265 dies; Char_907 inherits
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44] Char_278 dies; Char_873 inherits
+[12:12:44] Update helen: newEvent
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:44]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:44] Recieved: Data | 92.239.228.86:53442
+[12:12:44] From: helen: request = ViewJournalEntries
+[12:12:44]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:44]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:50] Recieved: Data | 92.239.228.86:53442
+[12:12:50] From: helen: request = SeasonUpdate
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Random hex method returned a null value for fief.
+[12:12:50] Char_159 dies; Char_1199 inherits
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Char_168 dies; Char_896 inherits
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Char_229 dies; Char_1181 inherits
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50] Update helen: newEvent
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:50]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:50] Recieved: Data | 92.239.228.86:53442
+[12:12:50] From: helen: request = ViewJournalEntries
+[12:12:50]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53442
+[12:12:50]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:51] Recieved: Data | 92.239.228.86:53442
+[12:12:51] From: helen: request = SeasonUpdate
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Random hex method returned a null value for fief.
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: ArmyDisband
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = ArmyDisband | 92.239.228.86:53442
+[12:12:51] Update helen: YouDiedNoHeir
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = YouDiedNoHeir | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Char_40 dies; Char_1187 inherits
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51] Update helen: newEvent
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:53442
+[12:12:51]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:53442
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:51] Recieved: Data | 92.239.228.86:53442
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+[12:12:51]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53442
+[12:12:56] Recieved: StatusChanged | 92.239.228.86:53442
+[12:12:56] 	Status is now: Disconnected
+[12:12:56] 92.239.228.86:53442 has disconnected. Reason: Client logged out.
+[12:12:56] Client helen has disconnected.
+[12:16:00] Recieved: StatusChanged | 92.239.228.86:64821
+[12:16:08] 	Status is now: RespondedAwaitingApproval
+[12:16:08] Recieved: ConnectionApproval | 92.239.228.86:64821
+[12:16:08] Accepted connection from helen | helen | TestString
+[12:16:08] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Ignoring multiple Connect() most likely due to a delayed Approval
+[12:16:08] Recieved: StatusChanged | 92.239.228.86:64821
+[12:16:08] 	Status is now: Disconnected
+[12:16:08] 92.239.228.86:64821 has disconnected. Reason: Client logged out.
+[12:16:08] Client helen has disconnected.
+[12:16:08] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Approve() called in wrong status; expected RespondedAwaitingApproval; got Disconnected
+[12:16:47] Recieved: StatusChanged | 92.239.228.86:53159
+[12:16:47] 	Status is now: RespondedAwaitingApproval
+[12:16:47] Recieved: ConnectionApproval | 92.239.228.86:53159
+[12:16:47] Accepted connection from helen | helen | TestString
+[12:16:47] Recieved: StatusChanged | 92.239.228.86:53159
+[12:16:47] 	Status is now: RespondedConnect
+[12:16:47] Recieved: StatusChanged | 92.239.228.86:53159
+[12:16:47] 	Status is now: Connected
+[12:16:47] Recieved: Data | 92.239.228.86:53159
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+Run-time error: Character Char_158 leading army Army_3, but army not found in army master list
+[12:16:47]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:53159
+[12:16:47] helen logs in from 92.239.228.86:5315

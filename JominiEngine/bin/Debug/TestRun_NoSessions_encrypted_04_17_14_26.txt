@@ -1,0 +1,77 @@
+Port forward FAILED 0
+Port forward FAILED 1
+Port forward FAILED 2
+Port forward FAILED 3
+Port forward FAILED 4
+Port forward FAILED 5
+Port forward FAILED 6
+Port forward FAILED 7
+Port forward FAILED 8
+Port forward FAILED 9
+Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 603
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 384
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 366
+Recieved: StatusChanged | 86.177.228.4:58791
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 86.177.228.4:58791
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 86.177.228.4:58791
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 86.177.228.4:58791
+	Status is now: Connected
+Recieved: Data | 86.177.228.4:58791
+[14:26:58] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 86.177.228.4:58791
+helen logs in from 86.177.228.4:58791
+Recieved: Data | 86.177.228.4:58791
+From: helen: request = GetNPCList
+[14:26:58] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 86.177.228.4:58791
+[14:26:58] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:58791
+Recieved: Data | 86.177.228.4:58791
+From: helen: request = ViewWorldMap
+[14:27:30] Sending to: helen | ActionType = ViewWorldMap | ResponseType = None | 86.177.228.4:58791
+[14:27:30] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:58791
+Recieved: Data | 86.177.228.4:58791
+From: helen: request = GetNPCList
+[14:27:36] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 86.177.228.4:58791
+[14:27:36] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:58791
+Recieved: StatusChanged | 86.177.228.4:51679
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 86.177.228.4:51679
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 86.177.228.4:51679
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 86.177.228.4:51679
+	Status is now: Connected
+Recieved: Data | 86.177.228.4:51679
+[14:29:42] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 86.177.228.4:51679
+helen logs in from 86.177.228.4:51679
+Recieved: Data | 86.177.228.4:51679
+From: helen: request = GetNPCList
+[14:29:42] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 86.177.228.4:51679
+[14:29:42] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:51679
+Recieved: Data | 86.177.228.4:51679
+From: helen: request = ViewWorldMap
+[14:29:45] Sending to: helen | ActionType = ViewWorldMap | ResponseType = None | 86.177.228.4:51679
+[14:29:45] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:51679
+Recieved: Data | 86.177.228.4:51679
+From: helen: request = ViewFief
+[14:29:59] Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief | 86.177.228.4:51679
+[14:29:59] Sending to: helen | ActionType = Update | ResponseType = Success | 86.177.228.4:51679
+Recieved: StatusChanged | 86.177.228.4:58791
+	Status is now: Disconnected
+86.177.228.4:58791 has disconnected. Reason: Connection timed out
+14:30:17Client helen has disconnected.
+Recieved: StatusChanged | 86.177.228.4:51681
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 86.177.228.4:51681
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 86.177.228.4:51681
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 86.177.228.4:51681
+	Status is now:

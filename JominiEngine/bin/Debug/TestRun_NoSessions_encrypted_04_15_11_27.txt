@@ -1,0 +1,361 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:61620
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:57683
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = UseChar
+Sending to: helen | ActionType = UseChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = UseChar
+Sending to: helen | ActionType = UseChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = UseChar
+Sending to: helen | ActionType = UseChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = UseChar
+Sending to: helen | ActionType = UseChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects .
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = UseChar
+Sending to: helen | ActionType = UseChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewChar
+Sending to: helen | ActionType = ViewChar | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:54793
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects .
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewArmy
+Sending to: helen | ActionType = ViewArmy | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewArmy
+Sending to: helen | ActionType = ViewArmy | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewArmy
+Sending to: helen | ActionType = ViewArmy | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewArmy
+Sending to: helen | ActionType = ViewArmy | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewJournalEntries
+Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+Accepted connection from helen
+Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess
+helen logs in from 127.0.0.1:63001
+From: helen: request = GetNPCList
+Sending to: helen | ActionType = GetNPCList | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+Client helen disconnects .
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ExamineArmiesInFief
+Sending to: helen | ActionType = ExamineArmiesInFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewArmy
+Sending to: helen | ActionType = ViewArmy | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = TravelTo
+Sending to: helen | ActionType = TravelTo | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewFief
+Sending to: helen | ActionType = ViewFief | ResponseType = Success
+Sending to: helen | ActionType = Update | ResponseType = Success
+From: helen: request = ViewWorldMap
+Sending to: helen | ActionType = ViewWorldMap | ResponseType = None
+Sending to

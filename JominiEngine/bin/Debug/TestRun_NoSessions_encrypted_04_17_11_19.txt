@@ -1,0 +1,79 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Recieved: StatusChanged | 127.0.0.1:57191
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:57191
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:57191
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:57191
+	Status is now: Connected
+Recieved: Data | 127.0.0.1:57191
+[11:20:11] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 127.0.0.1:57191
+helen logs in from 127.0.0.1:57191
+Recieved: Data | 127.0.0.1:57191
+From: helen: request = GetNPCList
+[11:20:11] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 127.0.0.1:57191
+[11:20:11] Sending to: helen | ActionType = Update | ResponseType = Success | 127.0.0.1:57191
+Recieved: Data | 127.0.0.1:57191
+From: helen: request = ViewWorldMap
+[11:21:11] Sending to: helen | ActionType = ViewWorldMap | ResponseType = None | 127.0.0.1:57191
+[11:21:11] Sending to: helen | ActionType = Update | ResponseType = Success | 127.0.0.1:57191
+Recieved: Data | 127.0.0.1:57191
+From: helen: request = SeasonUpdate
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Random hex method returned a null value for fief.
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Char_92 dies; Char_487 inherits
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Char_166 dies; Char_964 inherits
+Update helen: newEvent
+[11:34:00] Sending to: helen | ActionType = Update | ResponseType = newEvent | 127.0.0.1:57191
+Char_185 dies; Char_325 inherits
+Update helen: newEvent
+[11:34:00] Sending to: helen 

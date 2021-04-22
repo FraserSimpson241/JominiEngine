@@ -1,0 +1,94 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Recieved: StatusChanged | 127.0.0.1:53749
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:53749
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:53749
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:53749
+	Status is now: Connected
+Recieved: StatusChanged | 127.0.0.1:60789
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:60789
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:60789
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:60789
+	Status is now: Connected
+Recieved: StatusChanged | 127.0.0.1:64645
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64645
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64645
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64645
+	Status is now: Connected
+Recieved: Data | 127.0.0.1:64645
+[10:34:45] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:64645
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:64645
+	Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:64645
+	Status is now: Disconnected
+127.0.0.1:64645 has disconnected. Reason: Authentication Fail
+10:34:45Client helen has disconnected.
+Recieved: StatusChanged | 127.0.0.1:64657
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64657
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64657
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64657
+	Status is now: Connected
+Recieved: Data | 127.0.0.1:64657
+[10:37:54] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:64657
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:64657
+	Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:64657
+	Status is now: Disconnected
+127.0.0.1:64657 has disconnected. Reason: Authentication Fail
+10:37:54Client helen has disconnected.
+Recieved: StatusChanged | 127.0.0.1:64658
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64658
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64658
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64658
+	Status is now: Connected
+Recieved: Data | 127.0.0.1:64658
+[10:38:34] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:64658
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:64658
+	Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:64658
+	Status is now: Disconnected
+127.0.0.1:64658 has disconnected. Reason: Authentication Fail
+10:38:34Client helen has disconnected.
+Recieved: StatusChanged | 127.0.0.1:64573
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64573
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64573
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64573
+	Status is now: Connected
+Recieved: Data | 127.0.0.1:64573
+[10:39:24] Sending to: helen | ActionType = LogIn | ResponseType = LogInFail | 127.0.0.1:64573
+Wrong Password, disconnecting user.
+Recieved: StatusChanged | 127.0.0.1:64573
+	Status is now: Disconnecting
+Recieved: StatusChanged | 127.0.0.1:64573
+	Status is now: Disconnected
+127.0.0.1:64573 has disconnected. Reason: Authentication Fail
+10:39:24Client helen has disconnected.
+Recieved: StatusChanged | 127.0.0.1:64574
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 127.0.0.1:64574
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 127.0.0.1:64574
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 127.0.0.1:64574
+	Status is now: Connected
+Recieved:

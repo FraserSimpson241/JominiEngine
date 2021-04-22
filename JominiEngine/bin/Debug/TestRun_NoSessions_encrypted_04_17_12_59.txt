@@ -1,0 +1,69 @@
+Port forward FAILED 0
+Port forward FAILED 1
+Port forward FAILED 2
+Port forward FAILED 3
+Port forward FAILED 4
+Port forward FAILED 5
+Port forward FAILED 6
+Port forward FAILED 7
+Port forward FAILED 8
+Port forward FAILED 9
+Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 268
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 268
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 268
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 603
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 268
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 277
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 277
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 277
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 277
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 332
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 332
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 332
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 342
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 342
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 342
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 342
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 384
+Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 366
+Recieved: StatusChanged | 92.239.228.86:64050
+	Status is now: RespondedAwaitingApproval
+Recieved: ConnectionApproval | 92.239.228.86:64050
+Accepted connection from helen | helen | TestString
+Recieved: StatusChanged | 92.239.228.86:64050
+	Status is now: RespondedConnect
+Recieved: StatusChanged | 92.239.228.86:64050
+	Status is now: Connected
+Recieved: Data | 92.239.228.86:64050
+[12:59:53] Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:64050
+helen logs in from 92.239.228.86:64050
+Recieved: Data | 92.239.228.86:64050
+From: helen: request = GetNPCList
+[12:59:53] Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:64050
+[12:59:53] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:64050
+Recieved: Data | 92.239.228.86:64050
+From: helen: request = ViewWorldMap
+[13:00:18] Sending to: helen | ActionType = ViewWorldMap | ResponseType = None | 92.239.228.86:64050
+[13:00:18] Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:64050
+Re

@@ -1,0 +1,246 @@
+[10:35:15] Port forward FAILED 0
+[10:35:16] Port forward FAILED 1
+[10:35:17] Port forward FAILED 2
+[10:35:17] Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+[10:35:52] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+[10:35:52] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 366
+[10:35:52] Recieved: StatusChanged | 92.239.228.86:57791
+[10:35:52] 	Status is now: RespondedAwaitingApproval
+[10:35:52] Recieved: ConnectionApproval | 92.239.228.86:57791
+[10:35:52] Accepted connection from helen | helen | TestString
+[10:35:52] Recieved: StatusChanged | 92.239.228.86:57791
+[10:35:52] 	Status is now: RespondedConnect
+[10:35:52] Recieved: StatusChanged | 92.239.228.86:57791
+[10:35:52] 	Status is now: Connected
+[10:35:52] Recieved: Data | 92.239.228.86:57791
+[10:35:52]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:57791
+[10:35:52] helen logs in from 92.239.228.86:57791
+[10:35:53] Recieved: Data | 92.239.228.86:57791
+[10:35:53] From: helen: request = ViewWorldMap
+[10:35:53]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:57791
+[10:35:53]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:36:00] Recieved: Data | 92.239.228.86:57791
+[10:36:00] From: helen: request = ViewFief
+[10:36:00]  Sending to: helen | ActionType = ViewFief | ResponseType = ErrorGenericTooFarFromFief | 92.239.228.86:57791
+[10:36:00]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:48:42] Recieved: Data | 92.239.228.86:57791
+[10:48:42] From: helen: request = ViewWorldMap
+[10:48:42]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:57791
+[10:48:42]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:48:45] Recieved: Data | 92.239.228.86:57791
+[10:48:45] From: helen: request = ViewFief
+[10:48:45]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:57791
+[10:48:45]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:14] Recieved: Data | 92.239.228.86:57791
+[10:49:14] From: helen: request = TravelTo
+[10:49:14]  Sending to: helen | ActionType = TravelTo | ResponseType = Success | 92.239.228.86:57791
+[10:49:14]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:14] Recieved: Data | 92.239.228.86:57791
+[10:49:14] From: helen: request = ViewFief
+[10:49:14]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:57791
+[10:49:14]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:19] Recieved: Data | 92.239.228.86:57791
+[10:49:19] From: helen: request = ListCharsInMeetingPlace
+[10:49:19]  Sending to: helen | ActionType = ListCharsInMeetingPlace | ResponseType = Success | 92.239.228.86:57791
+[10:49:19]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:34] Recieved: Data | 92.239.228.86:57791
+[10:49:34] From: helen: request = ViewWorldMap
+[10:49:34]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:57791
+[10:49:34]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:38] Recieved: Data | 92.239.228.86:57791
+[10:49:38] From: helen: request = ViewFief
+[10:49:38]  Sending to: helen | ActionType = ViewFief | ResponseType = Success | 92.239.228.86:57791
+[10:49:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:49:41] Recieved: Data | 92.239.228.86:57791
+[10:49:41] From: helen: request = ListCharsInMeetingPlace
+[10:49:41]  Sending to: helen | ActionType = ListCharsInMeetingPlace | ResponseType = Success | 92.239.228.86:57791
+[10:49:41]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[10:56:22] Recieved: Data | 92.239.228.86:57791
+[10:56:22] From: helen: request = ViewChar
+[10:56:22]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:57791
+[10:56:22]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:00:22] Recieved: Data | 92.239.228.86:57791
+[11:00:22] From: helen: request = GetNPCList
+[11:00:22]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:57791
+[11:00:22]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:00:39] Recieved: Data | 92.239.228.86:57791
+[11:00:39] From: helen: request = UseChar
+[11:00:39]  Sending to: helen | ActionType = UseChar | ResponseType = Success | 92.239.228.86:57791
+[11:00:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:00:39] Recieved: Data | 92.239.228.86:57791
+[11:00:39] From: helen: request = ViewChar
+[11:00:39]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:57791
+[11:00:39]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:01:02] Recieved: Data | 92.239.228.86:57791
+[11:01:02] From: helen: request = SeasonUpdate
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Random hex method returned a null value for fief.
+[11:01:02] Char_20 dies; Char_1193 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Char_102 dies; Char_564 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Char_213 dies; Char_945 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Char_268 dies; Char_867 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Char_284 dies; Char_1165 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02] Char_40 dies; Char_1187 inherits
+[11:01:02] Update helen: newEvent
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:57791
+[11:01:02]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:57791
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:01:02] Recieved: Data | 92.239.228.86:57791
+[11:01:02] From: helen: request = ViewJournalEntries
+[11:01:02]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:57791
+[11:01:02]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:57791
+[11:12:08] Recieved: StatusChanged | 92.239.228.86:53523
+[11:12:08] 	Status is now: RespondedAwaitingApproval
+[11:12:08] Recieved: ConnectionApproval | 92.239.228.86:53523
+[11:12:08] Accepted connection from helen | helen | TestString
+[11:12:08] Recieved: StatusChanged | 92.239.228.86:53523
+[11:12:08] 	Status is now: RespondedConnect
+[11:12:08] Recieved: StatusChanged | 92.239.228.86:53523
+[11:12:08] 	Status is now: Connected
+[11:12:08] Recieved: Data | 92.239.228.86:53523
+[11:12:08]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:53523
+[11:12:08] helen logs in from 92.239.228.86:53523
+[11:12:09] Recieved: Data | 92.239.228.86:53523
+[11:12:09] From: helen: request = ViewWorldMap
+[11:12:09]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:53523
+[11:12:09]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53523
+[11:12:11] Recieved: Data | 92.239.228.86:53523
+[11:12:11] From: helen: request = ViewJournalEntries
+[11:12:11]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53523
+[11:12:11]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53523
+[11:12:14] Recieved: Data | 92.239.228.86:53523
+[11:12:14] From: helen: request = ViewMyFiefs
+[11:12:14]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:53523
+[11:12:14]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53523
+[11:12:38] Recieved: Data | 92.239.228.86:53523
+[11:12:38] From: helen: request = ViewJournalEntries
+[11:12:38]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:53523
+[11:12:38]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:53523
+[11:13:24] Recieved: StatusChanged | 92.239.228.86:57791
+[11:13:24] 	Status is now: Disconnected
+[11:13:24] 92.239.228.86:57791 has disconnected. Reason: Connection timed out
+[11:13:24] Client helen has disconnected.
+[11:16:09] Recieved: StatusChanged | 92.239.228.86:53523
+[11:16:09] 	Status is now: Disconnected
+[11:16:09] 92.239.228.86:53523 has disconnected. Reason: Connection timed out
+[11:16:09] Client helen has disconnected.
+[11:20:09] Recieved: StatusChanged | 92.239.228.86:51784
+[11:20:09] 	Status is now: RespondedAwaitingApproval
+[11:20:09] Recieved: ConnectionApproval | 92.239.228.86:51784
+[11:20:09] Accepted connection from helen | helen | TestString
+[11:20:09] Recieved: StatusChanged | 92.239.228.86:51784
+[11:20:09] 	Status is now: RespondedConnect
+[11:20:09] Recieved: StatusChanged | 92.239.228.86:51784
+[11:20:09] 	Status is now: Connected
+[11:20:10] Recieved: Data | 92.239.228.86:51784
+[11:20:10]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:51784
+[11:20:10] helen logs in from 92.239.228.86:51784
+[11:20:10] Recieved: Data | 92.239.228.86:51784
+[11:20:10] From: helen: request = ViewWorldMap
+[11:20:10]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:51784
+[11:20:10]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51784
+[11:20:16] Recieved: Data | 92.239.228.86:51784
+[11:20:16] From: helen: request = ViewMyFiefs
+[11:20:16]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:51784
+[11:20:16]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51784
+[11:20:26] Recieved: Data | 92.239.228.86:51784
+[11:20:26] From: helen: request = ViewChar
+[11:20:26]  Sending to: helen | ActionType = ViewChar | ResponseType = Success | 92.239.228.86:51784
+[11:20:26]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51784
+[11:21:16] Recieved: Data | 92.239.228.86:51784
+[11:21:16] From: helen: request = GetNPCList
+[11:21:16]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:51784
+[11:21:16]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:51784
+[11:24:32] Recieved: StatusChanged | 92.239.228.86:51784
+[11:24:32] 	Status is now: Disconnected
+[11:24:32] 92.239.228.86:51784 has disconnected. Reason: Client logged out.
+[11:24:32] Client helen has disconnected.
+[11:24:49] Recieved: StatusChanged | 92.239.228.86:65049
+[11:24:49] 	Status is now: RespondedAwaitingApproval
+[11:24:49] Recieved: ConnectionApproval | 92.239.228.86:65049
+[11:24:49] Accepted connection from helen | helen | TestString
+[11:24:49] Recieved: StatusChanged | 92.239.228.86:65049
+[11:24:49] 	Status is now: RespondedConnect
+[11:24:49] Recieved: StatusChanged | 92.239.228.86:65049
+[11:24:49] 	Status is now: Connected
+[11:24:49] Recieved: Data | 92.239.228.86:65049
+[11:24:49]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:65049
+[11:24:49] helen logs in from 92.239.228.86:65049
+[11:24:49] Recieved: Data | 92.239.228.86:65049
+[11:24:49] From: helen: request = ViewWorldMap
+[11:24:49]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:65049
+[11:24:49]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:65049
+[11:24:51] Recieved: Data | 92.239.228.86:65049
+[11:24:51] From: helen: request = GetNPCList
+[11:24:51]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:65049
+[11:24:51]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:65049
+[11:26:47] Recieved: StatusChanged | 92.239.228.86:65049
+[11:26:47] 	Status is now: Disconnected
+[11:26:47] 92.239.228.86:65049 has disconnected. Reason: Client logged out.
+[11:26:47] Client helen has disconnected.
+[11:27:02] Recieved: StatusChanged | 92.239.228.86:51798
+[11:27:02] 	Status is now: RespondedAwaitingApproval
+[11:27:02] Recieved: ConnectionApproval | 92.239.228.86:51798
+[11:27:02] Accepted connection from helen | helen | TestString
+[11:27:02] Recieved: StatusChanged | 92.239.228.86:51798
+[11:27:02] 	Status is now: RespondedConnect
+[11:27:02] Recieved: StatusChanged | 92.239.228.86:51798
+[11:27:02] 	Status is now: Connected
+[11:27:02] Recieved: Data | 92.239.228.86:51798
+[11:27:02]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:51798
+[11:27:02] helen logs in from 92.239.228.86:51798
+[11:27:02] Recieved:

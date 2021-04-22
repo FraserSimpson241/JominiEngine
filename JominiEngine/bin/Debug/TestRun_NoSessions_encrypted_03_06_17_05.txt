@@ -1,0 +1,79 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Accepted connection from helen
+helen logs in from 127.0.0.1:61476
+Accepted connection from helen
+From hist_mmorpg.Client: request = GetPlayers, reply = Success
+helen logs in from 127.0.0.1:52801
+From hist_mmorpg.Client: request = ViewFief, reply = None
+Accepted connection from helen
+helen logs in from 127.0.0.1:52802
+From hist_mmorpg.Client: request = GetPlayers, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+Accepted connection from helen
+From hist_mmorpg.Client: request = GetPlayers, reply = Success
+helen logs in from 127.0.0.1:52803
+Client helen disconnects
+Client helen disconnects
+Client helen disconnects
+Client helen disconnects
+Accepted connection from helen
+helen logs in from 127.0.0.1:55071
+Client helen disconnects
+Accepted connection from helen
+Client helen disconnects
+Accepted connection from helen
+helen logs in from 127.0.0.1:53422
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update helen: CharacterInvalidMovement
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+Update h

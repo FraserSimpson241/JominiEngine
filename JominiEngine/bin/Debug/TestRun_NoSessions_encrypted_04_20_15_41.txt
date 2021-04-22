@@ -1,0 +1,124 @@
+[15:41:31] Port forwarded successfully.
+[15:41:31] Server started- host: 192.168.0.11, port: 8000, appID: test, max connections: 2000
+[15:41:45] Recieved: WarningMessage | NULL
+Run-time error: Recieved warning message: Malformed packet; stated payload length 1514, remaining bytes 224
+[15:41:45] Recieved: StatusChanged | 92.239.228.86:56313
+[15:41:45] 	Status is now: RespondedAwaitingApproval
+[15:41:45] Recieved: ConnectionApproval | 92.239.228.86:56313
+[15:41:45] Accepted connection from helen | helen | TestString
+[15:41:45] Recieved: StatusChanged | 92.239.228.86:56313
+[15:41:45] 	Status is now: RespondedConnect
+[15:41:45] Recieved: StatusChanged | 92.239.228.86:56313
+[15:41:45] 	Status is now: Connected
+[15:41:45] Recieved: Data | 92.239.228.86:56313
+[15:41:45]  Sending to: helen | ActionType = LogIn | ResponseType = LogInSuccess | 92.239.228.86:56313
+[15:41:45] helen logs in from 92.239.228.86:56313
+[15:41:45] Recieved: Data | 92.239.228.86:56313
+[15:41:45] From: helen: request = ViewWorldMap
+[15:41:45]  Sending to: helen | ActionType = ViewWorldMap | ResponseType = Success | 92.239.228.86:56313
+[15:41:45]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:43:49] Recieved: Data | 92.239.228.86:56313
+[15:43:49] From: helen: request = ViewMyFiefs
+[15:43:49]  Sending to: helen | ActionType = ViewMyFiefs | ResponseType = Success | 92.239.228.86:56313
+[15:43:49]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:53:59] Recieved: Data | 92.239.228.86:56313
+[15:53:59] From: helen: request = ListArmies
+[15:53:59]  Sending to: helen | ActionType = ListArmies | ResponseType = Success | 92.239.228.86:56313
+[15:53:59]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:54:12] Recieved: Data | 92.239.228.86:56313
+[15:54:12] From: helen: request = ViewArmy
+[15:54:12]  Sending to: helen | ActionType = ViewArmy | ResponseType = Success | 92.239.228.86:56313
+[15:54:12]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:55:16] Recieved: Data | 92.239.228.86:56313
+[15:55:16] From: helen: request = GetNPCList
+[15:55:16]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.239.228.86:56313
+[15:55:16]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:56:22] Recieved: Data | 92.239.228.86:56313
+[15:56:22] From: helen: request = ViewJournalEntries
+[15:56:22]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:56313
+[15:56:22]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:56:24] Recieved: Data | 92.239.228.86:56313
+[15:56:24] From: helen: request = SeasonUpdate
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Random hex method returned a null value for fief.
+[15:56:24] Char_19 dies; Char_1209 inherits
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Char_20 dies; Char_1193 inherits
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Char_102 dies; Char_494 inherits
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Char_111 dies; Char_1140 inherits
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Char_265 dies; Char_907 inherits
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24] Update helen: newEvent
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = newEvent | 92.239.228.86:56313
+[15:56:24]  Sending to: helen | ActionType = SeasonUpdate | ResponseType = Success | 92.239.228.86:56313
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:56:24] Recieved: Data | 92.239.228.86:56313
+[15:56:24] From: helen: request = ViewJournalEntries
+[15:56:24]  Sending to: helen | ActionType = ViewJournalEntries | ResponseType = JournalEntries | 92.239.228.86:56313
+[15:56:24]  Sending to: helen | ActionType = Update | ResponseType = Success | 92.239.228.86:56313
+[15:57:14] Recieved: Data | 92.239.228.86:56313
+[15:58:19] From: helen: request = GetNPCList
+[15:58:19]  Sending to: helen | ActionType = GetNPCList | ResponseType = Success | 92.

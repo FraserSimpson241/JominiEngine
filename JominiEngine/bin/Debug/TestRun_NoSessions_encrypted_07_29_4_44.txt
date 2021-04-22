@@ -1,0 +1,72 @@
+Server started- host: localhost, port: 8000, appID: test, max connections: 2000
+Accepted connection from helen
+helen logs in from 127.0.0.1:65147
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = SpyFief, reply = ErrorSpyOwn
+From hist_mmorpg.Client: request = SpyFief, reply = ErrorGenericFiefUnidentified
+From hist_mmorpg.Client: request = SpyFief, reply = ErrorGenericFiefUnidentified
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = BesiegeFief, reply = PillageOwnFief
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+Update helen: newEvent
+From hist_mmorpg.Client: request = BesiegeFief, reply = Success
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = SiegeRoundStorm, reply = ErrorGenericSiegeUnidentified
+Update helen: newEvent
+Update helen: newEvent
+Update helen: newEvent
+Update helen: newEvent
+Update helen: SiegeStormSuccess
+Update helen: newEvent
+From hist_mmorpg.Client: request = SiegeRoundStorm, reply = None
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = BesiegeFief, reply = PillageOwnFief
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+Update helen: newEvent
+From hist_mmorpg.Client: request = BesiegeFief, reply = Success
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+Update helen: newEvent
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = BesiegeFief, reply = PillageOwnFief
+From hist_mmorpg.Client: request = SiegeList, reply = None
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmorpg.Client: request = TravelTo, reply = Success
+From hist_mmorpg.Client: request = ViewChar, reply = Success
+From hist_mmorpg.Client: request = ViewFief, reply = None
+From hist_mmorpg.Client: request = ListArmies, reply = None
+From hist_mmo
